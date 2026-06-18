@@ -1640,3 +1640,5 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiJ9...
    - GDPR compliance for EU users
    - Data localization requirements
    - Audit trail capabilities
+
+Bagus Santoso

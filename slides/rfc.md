@@ -1641,4 +1641,4 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiJ9...
    - Data localization requirements
    - Audit trail capabilities
 
-Bagus Santoso
+Miftahul Fiqri
